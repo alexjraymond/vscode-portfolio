@@ -69,10 +69,17 @@ export async function getStaticProps() {
     }
   );
   let repos = await repoRes.json();
-  repos = repos
-    .sort((a, b) => b.stargazers_count - a.stargazers_count)
-    .slice(0, 6);
-
+  if (!Array.isArray(repos)) {
+    console.error('Expected an array, but received:', repos);
+    // Handle the error appropriately
+    repos = []; // Default to an empty array or handle as needed
+  } else {
+    // Proceed with sorting if repos is an array
+    repos = repos
+      .sort((a, b) => b.stargazers_count - a.stargazers_count)
+      .slice(0, 6);
+  }
+  
   return {
     props: { title: 'GitHub', repos, user },
     revalidate: 10,
