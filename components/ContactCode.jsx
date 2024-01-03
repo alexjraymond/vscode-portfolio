@@ -9,48 +9,18 @@ const contactItems = [
   {
     social: 'email',
     link: 'alexraymond@gmail.com',
-    href: 'mailto:alexraymond@gmail.com',
+    href: 'mailto:alexjacobraymond@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsalexr',
-    href: 'https://github.com/itsalexr',
+    link: 'alexjraymond',
+    href: 'https://github.com/alexjraymond',
   },
   {
     social: 'linkedin',
-    link: 'alexraymond',
-    href: 'https://www.linkedin.com/in/alexraymond/',
-  },
-  {
-    social: 'twitter',
-    link: 'iamalexr',
-    href: 'https://www.twitter.com/iamalexr',
-  },
-  {
-    social: 'instagram',
-    link: 'iamalexr',
-    href: 'https://www.instagram.com/iamalexr',
-  },
-  {
-    social: 'polywork',
-    link: 'alexraymond',
-    href: 'https://www.polywork.com/alexraymond',
-  },
-  {
-    social: 'telegram',
-    link: 'iamalexr',
-    href: 'https://t.me/iamalexr',
-  },
-  {
-    social: 'codepen',
-    link: 'alexraymond',
-    href: 'https://codepen.io/itsalexr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsalexr',
-    href: 'https://codesandbox.io/u/itsalexr',
-  },
+    link: 'alexjraymond',
+    href: 'https://www.linkedin.com/in/alexjraymond/',
+  }
 ];
 
 const ContactCode = () => {

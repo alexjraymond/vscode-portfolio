@@ -1,0 +1,12 @@
+[{
+    "react": "https://reactjs.org/",
+    "typescript": "https://www.typescriptlang.org/",
+    "webpack": "https://webpack.js.org/",
+    "tailwind": "https://tailwindcss.com/",
+    "node": "https://nodejs.org/en/",
+    "mongodb": "https://www.mongodb.com/",
+    "redux": "https://redux.js.org/",
+    "razorpay": "https://razorpay.com/",
+    "material-ui": "https://mui.com/",
+    "next": "https://nextjs.org/"
+}]
