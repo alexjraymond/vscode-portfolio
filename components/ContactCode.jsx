@@ -2,9 +2,9 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'alexraymond.me',
-    href: 'https://alexraymond.me',
+    social: 'music credits',
+    link: 'alexraymond.xyz',
+    href: 'https://www.alexraymond.xyz/',
   },
   {
     social: 'email',
