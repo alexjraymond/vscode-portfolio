@@ -14,24 +14,15 @@
     "image": "https://imgur.com/3xSh0v7.gif",
     "description": "A full stack to-do app utilizing AI to turn your daily tasks into epic adventures",
     "tags": ["react", "node", "t3 stack", "next", "trpc", "prisma", "Tailwind", "postgreSQL"],
-    "demo": "https://www.pcbcupid.com/"
+    "demo": ""
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsalexr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
-  },
-  {
-    "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsalexr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "ComfyLounge",
+    "image": "https://imgur.com/mDl2QCm.png",
+    "description": "A full-stack modular productivity application designed to minimize distractions",
+    "tags": ["react", "node", "AWS S3", "dynamoDB"],
+    "source_code": "https://github.com/alexjraymond/ComfyLounge",
+    "demo": "https://comfylounge.gg/"
   }
 ]
