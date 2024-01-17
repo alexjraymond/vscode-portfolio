@@ -15,7 +15,6 @@
 	color: #0056b3;
 }
 
-#bio p {
-	text-align: justify;
-	margin-bottom: 20px;
+.about-me {
+	margin: 20px;
 }
